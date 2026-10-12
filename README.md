@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-- (2025. 06~) Software Engineer
+- (2025. 06 ~) Software Engineer
+- (2019. 03 ~ 2025. 02) 서울과학기술대학교 컴퓨터공학과
 
 ### 자격증
 - (2025. 01) [AWS Certified Solutions Architect - Associate (AWS SAA)](https://www.credly.com/badges/7bace823-36b8-4233-9487-b47242e23799/public_url)
